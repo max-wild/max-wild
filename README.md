@@ -3,6 +3,6 @@
 &emsp;&emsp;❃ I’m @max-wild 𓆏  
 &emsp;&emsp;❃ I’m interested in pursuing two bachelor's in Computer Science (AI) and Mathematics at Oregon State  
 
-<a href="https://www.youtube.com/watch?v=3GlCB73zUlA" target="_blank" rel="noopener noreferrer">▶</a> Check out my <a href="https://www.youtube.com/watch?v=3GlCB73zUlA" target="_blank" rel="noopener noreferrer">video submission</a> to the 2022 CUE research convention!  
+[▶](external.ink?to=youtube.com/watch?v=3GlCB73zUlA) Check out my [video submission](external.ink?to=youtube.com/watch?v=3GlCB73zUlA) to the 2022 CUE research convention!  
 
-&emsp;&emsp;❃ Reach me by contacting my <a href="http://linkedin.com/in/-max-wild" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+&emsp;&emsp;❃ Reach me by contacting my [LinkedIn](external.ink?to=linkedin.com/in/-max-wild)
