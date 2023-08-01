@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/-max-wild/)](https://www.linkedin.com/in/-max-wild/)
 
-❃&emsp;I love to work with natural language processing, generative AI, and neural networks  
+❃&emsp;I like to learn about natural language processing, generative AI, and machine learning applications  
   
 ❃&emsp;Right now I’m pursuing Mathematics and Computer Science at Oregon State University 📚 🔬  
 
