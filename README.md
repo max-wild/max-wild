@@ -9,4 +9,4 @@
 
 &emsp;&emsp;&emsp;<a href="https://www.youtube.com/watch?v=3GlCB73zUlA" target="_blank" rel="noopener noreferrer">▶</a>&emsp;Check out my <a href="https://www.youtube.com/watch?v=3GlCB73zUlA" target="_blank" rel="noopener noreferrer">video submission</a> to the 2022 CUE research convention  
 
-&emsp;&emsp;&emsp;&nbsp;❃&emsp;&nbsp;My website is at a new location: draw a character and <a href="https://maxwild.tech/models" target="_blank" rel="noopener noreferrer">a neural network will try to guess what it is</a>
+&emsp;&emsp;&emsp;&nbsp;❃&emsp;&nbsp;My blog is at a new location: draw a character and <a href="https://maxwild.tech/models" target="_blank" rel="noopener noreferrer">a neural network will try to guess what it is</a>
